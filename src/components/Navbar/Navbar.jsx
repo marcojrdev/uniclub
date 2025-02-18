@@ -64,7 +64,7 @@ const Navbar = () => {
           {isCepOpen && (
             <div className="absolute  flex justify-center items-center gap-2  w-100 h-10   ">
                   <form action="" method="get">
-                  <input className="flex-1 bg-corsecudaria outline-none text-gray-700   " type="text" placeholder='Digigite seu cep'  />
+                  <input className="flex-1 bg-corsecudaria outline-none text-gray-700   " type="text" placeholder='Digite seu cep'  />
                   <button className="bg-indigo-500 px-5 py-2 text-white rounded-md hover:bg-indigo-700 focus:outline-none" type="submit">Buscar</button>
                   </form>
             </div>    
