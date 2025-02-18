@@ -1,0 +1,7 @@
+@import "tailwindcss";
+@theme {
+    --color-backcolor: #EAE0D5; 
+    --color-laranjap: #F47920; 
+    --color-corsecudaria: #F7F3EE;
+
+  }
