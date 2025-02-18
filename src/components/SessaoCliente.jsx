@@ -7,7 +7,7 @@ const SessaoCliente = () => {
     <>
     <div className="flex justify-center w-full">
       <div
-        className="flex flex-col justify-center w-full max-w-[1194px] min-h-[50%] bg-cover bg-center gap-5 p-40 sm:p-20"
+        className="flex flex-col justify-center w-full max-w-[1194px] min-h-[50%] bg-cover bg-center gap-5 p-20 sm:p-20"
         style={{ backgroundImage: `url(${Imgfundo})` }}
       >
         <h1 className="text-2xl text-white text-left">
